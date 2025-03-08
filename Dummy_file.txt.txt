@@ -1,1 +1,3 @@
-Hey! It's a dummy file for commiting ile to github
+Hey! It's a dummy file for commiting file to GitHub
+
+Making changes
